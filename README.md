@@ -28,7 +28,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianRezende&hide=html,css,handlebars&layout=compact&theme=vision-friendly-dark)](https://github.com/JulianRezende/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaRAlves&hide=html,css,handlebars&layout=compact&theme=vision-friendly-dark)](https://github.com/JuliaRAlves/github-readme-stats)
 
 ## some things i like to use (i wanted to fill my profile with badges because it's fun)
 
@@ -48,5 +48,5 @@
 
 ## some stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JulianRezende&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JulianRezende&show_icons=true&count_private=true&theme=vision-friendly-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuliaRAlves&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuliaRAlves&show_icons=true&count_private=true&theme=vision-friendly-dark)
