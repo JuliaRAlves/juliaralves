@@ -1,6 +1,6 @@
 ## some interesting repositories
 
-- [i GOT an app](https://github.com/JuliaRAlves/iGOTanapp) (not finished yet);
+- [i GOT an app](https://github.com/JuliaRAlves/iGOTanapp);
 - [Example of using Motion Layout on Android App](https://github.com/JuliaRAlves/MotionLayoutExample);
 - [TemBazuca](https://github.com/JuliaRAlves/TemBazuca) (not finished - probably won't finish it).
 
