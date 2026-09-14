@@ -3,9 +3,9 @@
 
 ## some interesting repositories
 
+- [Unhaverso](https://github.com/JuliaRAlves/Unhaverso) (WIP);
 - [i GOT an app](https://github.com/JuliaRAlves/iGOTanapp);
 - [Example of using Motion Layout on Android App](https://github.com/JuliaRAlves/MotionLayoutExample);
-- [TemBazuca](https://github.com/JuliaRAlves/TemBazuca) (not finished - probably won't finish it).
 
 ## what i know
 
